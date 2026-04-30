@@ -52,6 +52,9 @@ def load_data():
 def main():
     # Header
     st.markdown("""
+    <head>
+        <meta name="dicoding:email" content="abstrakxpro@gmail.com">
+    </head>
     <style>
     .main-header {
         background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 50%, #0ea5e9 100%);
