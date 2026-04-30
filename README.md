@@ -62,9 +62,6 @@ pip install -r requirements.txt
 # Download BDG2 dataset (place in data/bdg2/)
 # https://www.kaggle.com/datasets/claytonmiller/buildingdatagenomeproject2
 
-# Run EDA prototype
-python notebooks/01_eda_prototype.py
-
 # Run dashboard
 streamlit run src/dashboard.py
 ```
