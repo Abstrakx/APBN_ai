@@ -1,6 +1,6 @@
-# ⚡ EnergiKota AI
+# ⚡ APBN_ai
 
-> **Smart Building Energy Intelligence Platform for Urban Resilience**
+> **AI-Powered Building Energy Anomaly Detection & Optimization for Urban Resilience**
 
 AI-powered platform for predicting building energy consumption, detecting anomalies, and providing actionable energy-saving recommendations for government buildings in Jakarta, Indonesia.
 
@@ -16,7 +16,7 @@ Government buildings in DKI Jakarta consume **1,396.61 GWh of electricity per ye
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│                    EnergiKota AI                         │
+│                    APBN_ai                         │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  📊 Data Layer                                           │
