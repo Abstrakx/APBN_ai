@@ -1,0 +1,1127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.835,
+          -6.1675
+        ]
+      },
+      "properties": {
+        "id": "JKT-K01",
+        "name": "Kementerian Keuangan (Gedung Utama)",
+        "category": "kementerian",
+        "sqm": 52000,
+        "predicted_kwh": 6309347.0,
+        "ike": 121.3,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 883308644.0,
+        "saving_high_rp": 2649925932.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8203,
+          -6.1775
+        ]
+      },
+      "properties": {
+        "id": "JKT-K02",
+        "name": "Kementerian Pertahanan",
+        "category": "kementerian",
+        "sqm": 45000,
+        "predicted_kwh": 5461020.0,
+        "ike": 121.4,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 764542764.0,
+        "saving_high_rp": 2293628292.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8311,
+          -6.1717
+        ]
+      },
+      "properties": {
+        "id": "JKT-K03",
+        "name": "Kementerian Dalam Negeri",
+        "category": "kementerian",
+        "sqm": 35000,
+        "predicted_kwh": 5477145.0,
+        "ike": 156.5,
+        "ike_category": "Boros",
+        "color": "#f97316",
+        "saving_low_rp": 766800266.0,
+        "saving_high_rp": 2300400799.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8269,
+          -6.173
+        ]
+      },
+      "properties": {
+        "id": "JKT-K04",
+        "name": "Kementerian Luar Negeri",
+        "category": "kementerian",
+        "sqm": 40000,
+        "predicted_kwh": 5470230.0,
+        "ike": 136.8,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 765832163.0,
+        "saving_high_rp": 2297496489.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.834,
+          -6.228
+        ]
+      },
+      "properties": {
+        "id": "JKT-K05",
+        "name": "Kementerian Hukum dan HAM",
+        "category": "kementerian",
+        "sqm": 38000,
+        "predicted_kwh": 5497414.0,
+        "ike": 144.7,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 769637899.0,
+        "saving_high_rp": 2308913697.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8325,
+          -6.231
+        ]
+      },
+      "properties": {
+        "id": "JKT-K06",
+        "name": "Kementerian Kesehatan",
+        "category": "kementerian",
+        "sqm": 42000,
+        "predicted_kwh": 5498398.0,
+        "ike": 130.9,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 769775728.0,
+        "saving_high_rp": 2309327185.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.802,
+          -6.213
+        ]
+      },
+      "properties": {
+        "id": "JKT-K07",
+        "name": "Kementerian Pendidikan dan Kebudayaan",
+        "category": "kementerian",
+        "sqm": 48000,
+        "predicted_kwh": 5489878.0,
+        "ike": 114.4,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 768582882.0,
+        "saving_high_rp": 2305748645.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.833,
+          -6.169
+        ]
+      },
+      "properties": {
+        "id": "JKT-K08",
+        "name": "Kementerian Agama",
+        "category": "kementerian",
+        "sqm": 28000,
+        "predicted_kwh": 5470652.0,
+        "ike": 195.4,
+        "ike_category": "Sangat Boros",
+        "color": "#ef4444",
+        "saving_low_rp": 765891247.0,
+        "saving_high_rp": 2297673742.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.826,
+          -6.229
+        ]
+      },
+      "properties": {
+        "id": "JKT-K09",
+        "name": "Kementerian Ketenagakerjaan",
+        "category": "kementerian",
+        "sqm": 25000,
+        "predicted_kwh": 5497037.0,
+        "ike": 219.9,
+        "ike_category": "Sangat Boros",
+        "color": "#ef4444",
+        "saving_low_rp": 769585124.0,
+        "saving_high_rp": 2308755371.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.821,
+          -6.176
+        ]
+      },
+      "properties": {
+        "id": "JKT-K10",
+        "name": "Kementerian Perhubungan",
+        "category": "kementerian",
+        "sqm": 30000,
+        "predicted_kwh": 5470230.0,
+        "ike": 182.3,
+        "ike_category": "Sangat Boros",
+        "color": "#ef4444",
+        "saving_low_rp": 765832163.0,
+        "saving_high_rp": 2297496489.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.828,
+          -6.233
+        ]
+      },
+      "properties": {
+        "id": "JKT-K11",
+        "name": "Kementerian Perindustrian",
+        "category": "kementerian",
+        "sqm": 22000,
+        "predicted_kwh": 1651310.0,
+        "ike": 75.1,
+        "ike_category": "Efisien",
+        "color": "#3b82f6",
+        "saving_low_rp": 231183356.0,
+        "saving_high_rp": 693550067.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.834,
+          -6.174
+        ]
+      },
+      "properties": {
+        "id": "JKT-K12",
+        "name": "Kementerian Perdagangan",
+        "category": "kementerian",
+        "sqm": 26000,
+        "predicted_kwh": 5479657.0,
+        "ike": 210.8,
+        "ike_category": "Sangat Boros",
+        "color": "#ef4444",
+        "saving_low_rp": 767152022.0,
+        "saving_high_rp": 2301456067.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.828,
+          -6.181
+        ]
+      },
+      "properties": {
+        "id": "JKT-K13",
+        "name": "Kementerian ESDM",
+        "category": "kementerian",
+        "sqm": 24000,
+        "predicted_kwh": 1618292.0,
+        "ike": 67.4,
+        "ike_category": "Efisien",
+        "color": "#3b82f6",
+        "saving_low_rp": 226560850.0,
+        "saving_high_rp": 679682551.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.796,
+          -6.241
+        ]
+      },
+      "properties": {
+        "id": "JKT-K14",
+        "name": "Kementerian PUPR",
+        "category": "kementerian",
+        "sqm": 35000,
+        "predicted_kwh": 5490621.0,
+        "ike": 156.9,
+        "ike_category": "Boros",
+        "color": "#f97316",
+        "saving_low_rp": 768686968.0,
+        "saving_high_rp": 2306060905.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.821,
+          -6.302
+        ]
+      },
+      "properties": {
+        "id": "JKT-K15",
+        "name": "Kementerian Pertanian",
+        "category": "kementerian",
+        "sqm": 20000,
+        "predicted_kwh": 1629198.0,
+        "ike": 81.5,
+        "ike_category": "Efisien",
+        "color": "#3b82f6",
+        "saving_low_rp": 228087763.0,
+        "saving_high_rp": 684263290.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.866,
+          -6.226
+        ]
+      },
+      "properties": {
+        "id": "JKT-K16",
+        "name": "Kementerian Lingkungan Hidup dan Kehutanan",
+        "category": "kementerian",
+        "sqm": 18000,
+        "predicted_kwh": 1803140.0,
+        "ike": 100.2,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 252439600.0,
+        "saving_high_rp": 757318800.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.849,
+          -6.188
+        ]
+      },
+      "properties": {
+        "id": "JKT-K17",
+        "name": "Kementerian Sosial",
+        "category": "kementerian",
+        "sqm": 15000,
+        "predicted_kwh": 1439612.0,
+        "ike": 96.0,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 201545698.0,
+        "saving_high_rp": 604637093.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8195,
+          -6.177
+        ]
+      },
+      "properties": {
+        "id": "JKT-K18",
+        "name": "Kementerian Komunikasi dan Informatika",
+        "category": "kementerian",
+        "sqm": 20000,
+        "predicted_kwh": 1651310.0,
+        "ike": 82.6,
+        "ike_category": "Efisien",
+        "color": "#3b82f6",
+        "saving_low_rp": 231183356.0,
+        "saving_high_rp": 693550067.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.822,
+          -6.18
+        ]
+      },
+      "properties": {
+        "id": "JKT-K19",
+        "name": "Kementerian Pariwisata dan Ekonomi Kreatif",
+        "category": "kementerian",
+        "sqm": 16000,
+        "predicted_kwh": 1466949.0,
+        "ike": 91.7,
+        "ike_category": "Efisien",
+        "color": "#3b82f6",
+        "saving_low_rp": 205372800.0,
+        "saving_high_rp": 616118400.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83,
+          -6.179
+        ]
+      },
+      "properties": {
+        "id": "JKT-K20",
+        "name": "Kementerian BUMN",
+        "category": "kementerian",
+        "sqm": 18000,
+        "predicted_kwh": 1488050.0,
+        "ike": 82.7,
+        "ike_category": "Efisien",
+        "color": "#3b82f6",
+        "saving_low_rp": 208326960.0,
+        "saving_high_rp": 624980880.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8003,
+          -6.2088
+        ]
+      },
+      "properties": {
+        "id": "JKT-L01",
+        "name": "DPR/MPR RI",
+        "category": "lembaga",
+        "sqm": 55000,
+        "predicted_kwh": 6293178.0,
+        "ike": 114.4,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 881044894.0,
+        "saving_high_rp": 2643134681.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8262,
+          -6.17
+        ]
+      },
+      "properties": {
+        "id": "JKT-L02",
+        "name": "Mahkamah Agung RI",
+        "category": "lembaga",
+        "sqm": 30000,
+        "predicted_kwh": 5468282.0,
+        "ike": 182.3,
+        "ike_category": "Sangat Boros",
+        "color": "#ef4444",
+        "saving_low_rp": 765559531.0,
+        "saving_high_rp": 2296678593.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.812,
+          -6.216
+        ]
+      },
+      "properties": {
+        "id": "JKT-L03",
+        "name": "Badan Pemeriksa Keuangan",
+        "category": "lembaga",
+        "sqm": 22000,
+        "predicted_kwh": 1646671.0,
+        "ike": 74.8,
+        "ike_category": "Efisien",
+        "color": "#3b82f6",
+        "saving_low_rp": 230533902.0,
+        "saving_high_rp": 691601707.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.818,
+          -6.175
+        ]
+      },
+      "properties": {
+        "id": "JKT-L04",
+        "name": "Mahkamah Konstitusi RI",
+        "category": "lembaga",
+        "sqm": 15000,
+        "predicted_kwh": 1555455.0,
+        "ike": 103.7,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 217763681.0,
+        "saving_high_rp": 653291043.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.837,
+          -6.233
+        ]
+      },
+      "properties": {
+        "id": "JKT-L05",
+        "name": "Komisi Pemberantasan Korupsi (KPK)",
+        "category": "lembaga",
+        "sqm": 20000,
+        "predicted_kwh": 2023960.0,
+        "ike": 101.2,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 283354432.0,
+        "saving_high_rp": 850063297.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.871,
+          -6.19
+        ]
+      },
+      "properties": {
+        "id": "JKT-L06",
+        "name": "Badan Nasional Penanggulangan Bencana",
+        "category": "lembaga",
+        "sqm": 8000,
+        "predicted_kwh": 977172.0,
+        "ike": 122.1,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 136804109.0,
+        "saving_high_rp": 410412327.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.846,
+          -6.188
+        ]
+      },
+      "properties": {
+        "id": "JKT-L07",
+        "name": "Badan Pusat Statistik",
+        "category": "lembaga",
+        "sqm": 12000,
+        "predicted_kwh": 1035457.0,
+        "ike": 86.3,
+        "ike_category": "Efisien",
+        "color": "#3b82f6",
+        "saving_low_rp": 144964039.0,
+        "saving_high_rp": 434892116.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8341,
+          -6.1686
+        ]
+      },
+      "properties": {
+        "id": "JKT-W01",
+        "name": "Balai Kota DKI Jakarta",
+        "category": "pemda_provinsi",
+        "sqm": 27000,
+        "predicted_kwh": 5501362.0,
+        "ike": 203.8,
+        "ike_category": "Sangat Boros",
+        "color": "#ef4444",
+        "saving_low_rp": 770190708.0,
+        "saving_high_rp": 2310572123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.813,
+          -6.186
+        ]
+      },
+      "properties": {
+        "id": "JKT-W02",
+        "name": "Kantor Walikota Jakarta Pusat",
+        "category": "pemda_kota",
+        "sqm": 10000,
+        "predicted_kwh": 984934.0,
+        "ike": 98.5,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 137890709.0,
+        "saving_high_rp": 413672126.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.802,
+          -6.25
+        ]
+      },
+      "properties": {
+        "id": "JKT-W03",
+        "name": "Kantor Walikota Jakarta Selatan",
+        "category": "pemda_kota",
+        "sqm": 12000,
+        "predicted_kwh": 1152687.0,
+        "ike": 96.1,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 161376241.0,
+        "saving_high_rp": 484128723.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.735,
+          -6.16
+        ]
+      },
+      "properties": {
+        "id": "JKT-W04",
+        "name": "Kantor Walikota Jakarta Barat",
+        "category": "pemda_kota",
+        "sqm": 10000,
+        "predicted_kwh": 1000191.0,
+        "ike": 100.0,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 140026739.0,
+        "saving_high_rp": 420080216.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9053,
+          -6.2253
+        ]
+      },
+      "properties": {
+        "id": "JKT-W05",
+        "name": "Kantor Walikota Jakarta Timur",
+        "category": "pemda_kota",
+        "sqm": 11000,
+        "predicted_kwh": 1394313.0,
+        "ike": 126.8,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 195203811.0,
+        "saving_high_rp": 585611434.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.883,
+          -6.122
+        ]
+      },
+      "properties": {
+        "id": "JKT-W06",
+        "name": "Kantor Walikota Jakarta Utara",
+        "category": "pemda_kota",
+        "sqm": 10000,
+        "predicted_kwh": 1079575.0,
+        "ike": 108.0,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 151140527.0,
+        "saving_high_rp": 453421580.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.815,
+          -6.167
+        ]
+      },
+      "properties": {
+        "id": "JKT-D01",
+        "name": "Dinas Kesehatan DKI Jakarta",
+        "category": "pemda_provinsi",
+        "sqm": 5000,
+        "predicted_kwh": 660769.0,
+        "ike": 132.2,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 92507649.0,
+        "saving_high_rp": 277522948.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.818,
+          -6.221
+        ]
+      },
+      "properties": {
+        "id": "JKT-D02",
+        "name": "Dinas Pendidikan DKI Jakarta",
+        "category": "pemda_provinsi",
+        "sqm": 6000,
+        "predicted_kwh": 639450.0,
+        "ike": 106.6,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 89522973.0,
+        "saving_high_rp": 268568920.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.846,
+          -6.153
+        ]
+      },
+      "properties": {
+        "id": "JKT-D03",
+        "name": "Dinas Sosial DKI Jakarta",
+        "category": "pemda_provinsi",
+        "sqm": 4000,
+        "predicted_kwh": 498326.0,
+        "ike": 124.6,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 69765674.0,
+        "saving_high_rp": 209297021.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.874,
+          -6.271
+        ]
+      },
+      "properties": {
+        "id": "JKT-D04",
+        "name": "Dinas Lingkungan Hidup DKI Jakarta",
+        "category": "pemda_provinsi",
+        "sqm": 4500,
+        "predicted_kwh": 692027.0,
+        "ike": 153.8,
+        "ike_category": "Boros",
+        "color": "#f97316",
+        "saving_low_rp": 96883757.0,
+        "saving_high_rp": 290651272.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.825,
+          -6.186
+        ]
+      },
+      "properties": {
+        "id": "JKT-D05",
+        "name": "Dinas Perhubungan DKI Jakarta",
+        "category": "pemda_provinsi",
+        "sqm": 5000,
+        "predicted_kwh": 718376.0,
+        "ike": 143.7,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 100572611.0,
+        "saving_high_rp": 301717832.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.73,
+          -6.169
+        ]
+      },
+      "properties": {
+        "id": "JKT-D06",
+        "name": "Dinas Penanggulangan Kebakaran DKI",
+        "category": "pemda_provinsi",
+        "sqm": 3500,
+        "predicted_kwh": 544616.0,
+        "ike": 155.6,
+        "ike_category": "Boros",
+        "color": "#f97316",
+        "saving_low_rp": 76246198.0,
+        "saving_high_rp": 228738595.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.824,
+          -6.1855
+        ]
+      },
+      "properties": {
+        "id": "JKT-D07",
+        "name": "Dinas PUPR DKI Jakarta",
+        "category": "pemda_provinsi",
+        "sqm": 5500,
+        "predicted_kwh": 586278.0,
+        "ike": 106.6,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 82078947.0,
+        "saving_high_rp": 246236841.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.842,
+          -6.185
+        ]
+      },
+      "properties": {
+        "id": "JKT-D08",
+        "name": "Dinas Tenaga Kerja DKI Jakarta",
+        "category": "pemda_provinsi",
+        "sqm": 4000,
+        "predicted_kwh": 483517.0,
+        "ike": 120.9,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 67692326.0,
+        "saving_high_rp": 203076979.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.839,
+          -6.196
+        ]
+      },
+      "properties": {
+        "id": "JKT-C01",
+        "name": "Kantor Kecamatan Menteng",
+        "category": "kecamatan",
+        "sqm": 2200,
+        "predicted_kwh": 279245.0,
+        "ike": 126.9,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 39094325.0,
+        "saving_high_rp": 117282974.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.814,
+          -6.184
+        ]
+      },
+      "properties": {
+        "id": "JKT-C02",
+        "name": "Kantor Kecamatan Gambir",
+        "category": "kecamatan",
+        "sqm": 2000,
+        "predicted_kwh": 266758.0,
+        "ike": 133.4,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 37346118.0,
+        "saving_high_rp": 112038353.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.856,
+          -6.235
+        ]
+      },
+      "properties": {
+        "id": "JKT-C03",
+        "name": "Kantor Kecamatan Tebet",
+        "category": "kecamatan",
+        "sqm": 2300,
+        "predicted_kwh": 253019.0,
+        "ike": 110.0,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 35422659.0,
+        "saving_high_rp": 106267976.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.798,
+          -6.243
+        ]
+      },
+      "properties": {
+        "id": "JKT-C04",
+        "name": "Kantor Kecamatan Kebayoran Baru",
+        "category": "kecamatan",
+        "sqm": 2500,
+        "predicted_kwh": 414858.0,
+        "ike": 165.9,
+        "ike_category": "Boros",
+        "color": "#f97316",
+        "saving_low_rp": 58080065.0,
+        "saving_high_rp": 174240195.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.905,
+          -6.155
+        ]
+      },
+      "properties": {
+        "id": "JKT-C05",
+        "name": "Kantor Kecamatan Kelapa Gading",
+        "category": "kecamatan",
+        "sqm": 2000,
+        "predicted_kwh": 292260.0,
+        "ike": 146.1,
+        "ike_category": "Boros",
+        "color": "#f97316",
+        "saving_low_rp": 40916467.0,
+        "saving_high_rp": 122749402.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.724,
+          -6.147
+        ]
+      },
+      "properties": {
+        "id": "JKT-C06",
+        "name": "Kantor Kecamatan Cengkareng",
+        "category": "kecamatan",
+        "sqm": 2200,
+        "predicted_kwh": 270574.0,
+        "ike": 123.0,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 37880423.0,
+        "saving_high_rp": 113641269.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.893,
+          -6.187
+        ]
+      },
+      "properties": {
+        "id": "JKT-C07",
+        "name": "Kantor Kecamatan Pulo Gadung",
+        "category": "kecamatan",
+        "sqm": 2100,
+        "predicted_kwh": 260382.0,
+        "ike": 124.0,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 36453501.0,
+        "saving_high_rp": 109360504.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.81,
+          -6.285
+        ]
+      },
+      "properties": {
+        "id": "JKT-C08",
+        "name": "Kantor Kecamatan Cilandak",
+        "category": "kecamatan",
+        "sqm": 2000,
+        "predicted_kwh": 270651.0,
+        "ike": 135.3,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 37891073.0,
+        "saving_high_rp": 113673219.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.869,
+          -6.127
+        ]
+      },
+      "properties": {
+        "id": "JKT-C09",
+        "name": "Kantor Kecamatan Tanjung Priok",
+        "category": "kecamatan",
+        "sqm": 2300,
+        "predicted_kwh": 256679.0,
+        "ike": 111.6,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 35935080.0,
+        "saving_high_rp": 107805239.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.87,
+          -6.21
+        ]
+      },
+      "properties": {
+        "id": "JKT-C10",
+        "name": "Kantor Kecamatan Jatinegara",
+        "category": "kecamatan",
+        "sqm": 2100,
+        "predicted_kwh": 266758.0,
+        "ike": 127.0,
+        "ike_category": "Cukup Efisien",
+        "color": "#eab308",
+        "saving_low_rp": 37346118.0,
+        "saving_high_rp": 112038353.0
+      }
+    }
+  ]
+}

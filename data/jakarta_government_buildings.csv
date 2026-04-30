@@ -1,0 +1,52 @@
+building_id,name,category,sub_category,address,lat,lng,estimated_sqm,floors,primary_use,year_built,ac_type,operational_hours
+JKT-K01,Kementerian Keuangan (Gedung Utama),kementerian,besar,"Jl. Lapangan Banteng Timur No. 2-4, Jakpus",-6.1675,106.8350,52000,22,office,1980,central,10
+JKT-K02,Kementerian Pertahanan,kementerian,besar,"Jl. Medan Merdeka Barat No. 13-14, Jakpus",-6.1775,106.8203,45000,12,office,1965,central,10
+JKT-K03,Kementerian Dalam Negeri,kementerian,besar,"Jl. Medan Merdeka Utara No. 7, Jakpus",-6.1717,106.8311,35000,16,office,1975,central,10
+JKT-K04,Kementerian Luar Negeri,kementerian,besar,"Jl. Taman Pejambon No. 6, Jakpus",-6.1730,106.8269,40000,14,office,1970,central,10
+JKT-K05,Kementerian Hukum dan HAM,kementerian,besar,"Jl. H.R. Rasuna Said Kav. 6-7, Jaksel",-6.2280,106.8340,38000,18,office,1985,central,10
+JKT-K06,Kementerian Kesehatan,kementerian,besar,"Jl. H.R. Rasuna Said Blok X5 Kav. 4-9, Jaksel",-6.2310,106.8325,42000,20,office,1990,central,10
+JKT-K07,Kementerian Pendidikan dan Kebudayaan,kementerian,besar,"Jl. Jenderal Sudirman, Senayan, Jakpus",-6.2130,106.8020,48000,24,office,1988,central,10
+JKT-K08,Kementerian Agama,kementerian,menengah,"Jl. Lapangan Banteng Barat No. 3-4, Jakpus",-6.1690,106.8330,28000,12,office,1978,central,10
+JKT-K09,Kementerian Ketenagakerjaan,kementerian,menengah,"Jl. Jend. Gatot Subroto Kav. 51, Jaksel",-6.2290,106.8260,25000,15,office,1992,central,10
+JKT-K10,Kementerian Perhubungan,kementerian,menengah,"Jl. Medan Merdeka Barat No. 8, Jakpus",-6.1760,106.8210,30000,14,office,1973,central,10
+JKT-K11,Kementerian Perindustrian,kementerian,menengah,"Jl. Jend. Gatot Subroto Kav. 52-53, Jaksel",-6.2330,106.8280,22000,12,office,1985,central,10
+JKT-K12,Kementerian Perdagangan,kementerian,menengah,"Jl. M.I. Ridwan Rais No. 5, Jakpus",-6.1740,106.8340,26000,16,office,1983,central,10
+JKT-K13,Kementerian ESDM,kementerian,menengah,"Jl. Medan Merdeka Selatan No. 18, Jakpus",-6.1810,106.8280,24000,10,office,1970,central,10
+JKT-K14,Kementerian PUPR,kementerian,besar,"Jl. Pattimura No. 20, Jaksel",-6.2410,106.7960,35000,15,office,1980,central,10
+JKT-K15,Kementerian Pertanian,kementerian,menengah,"Jl. Harsono RM No. 3, Ragunan, Jaksel",-6.3020,106.8210,20000,8,office,1975,central,10
+JKT-K16,Kementerian Lingkungan Hidup dan Kehutanan,kementerian,menengah,"Jl. D.I. Panjaitan Kav. 24, Jaktim",-6.2260,106.8660,18000,10,office,1990,central,10
+JKT-K17,Kementerian Sosial,kementerian,menengah,"Jl. Salemba Raya No. 28, Jakpus",-6.1880,106.8490,15000,8,office,1972,central,10
+JKT-K18,Kementerian Komunikasi dan Informatika,kementerian,menengah,"Jl. Medan Merdeka Barat No. 9, Jakpus",-6.1770,106.8195,20000,12,office,1985,central,10
+JKT-K19,Kementerian Pariwisata dan Ekonomi Kreatif,kementerian,menengah,"Jl. Medan Merdeka Barat No. 17, Jakpus",-6.1800,106.8220,16000,10,office,1978,central,10
+JKT-K20,Kementerian BUMN,kementerian,menengah,"Jl. Medan Merdeka Selatan No. 13, Jakpus",-6.1790,106.8300,18000,12,office,1982,central,10
+JKT-L01,DPR/MPR RI,lembaga,besar,"Jl. Jend. Gatot Subroto No. 16, Senayan, Jakpus",-6.2088,106.8003,55000,8,public_assembly,1965,central,12
+JKT-L02,Mahkamah Agung RI,lembaga,besar,"Jl. Medan Merdeka Utara No. 9-13, Jakpus",-6.1700,106.8262,30000,10,office,1970,central,10
+JKT-L03,Badan Pemeriksa Keuangan,lembaga,menengah,"Jl. Jend. Gatot Subroto No. 31, Jakpus",-6.2160,106.8120,22000,12,office,1980,central,10
+JKT-L04,Mahkamah Konstitusi RI,lembaga,menengah,"Jl. Medan Merdeka Barat No. 6, Jakpus",-6.1750,106.8180,15000,6,office,2003,central,10
+JKT-L05,Komisi Pemberantasan Korupsi (KPK),lembaga,menengah,"Jl. Kuningan Persada Kav. 4, Jaksel",-6.2330,106.8370,20000,15,office,2015,central,12
+JKT-L06,Badan Nasional Penanggulangan Bencana,lembaga,kecil,"Jl. Pramuka Kav. 38, Jaktim",-6.1900,106.8710,8000,6,office,2008,central,10
+JKT-L07,Badan Pusat Statistik,lembaga,menengah,"Jl. Dr. Sutomo No. 6-8, Jakpus",-6.1880,106.8460,12000,8,office,1970,central,10
+JKT-W01,Balai Kota DKI Jakarta,pemda_provinsi,utama,"Jl. Medan Merdeka Selatan No. 8-9, Jakpus",-6.1686,106.8341,27000,15,office,1920,central,12
+JKT-W02,Kantor Walikota Jakarta Pusat,pemda_kota,walikota,"Jl. Tanah Abang I No. 1, Jakpus",-6.1860,106.8130,10000,6,office,1985,central,10
+JKT-W03,Kantor Walikota Jakarta Selatan,pemda_kota,walikota,"Jl. Prapanca Raya No. 9, Jaksel",-6.2500,106.8020,12000,7,office,1980,central,10
+JKT-W04,Kantor Walikota Jakarta Barat,pemda_kota,walikota,"Jl. Kembangan Raya No. 2, Jakbar",-6.1600,106.7350,10000,5,office,1982,central,10
+JKT-W05,Kantor Walikota Jakarta Timur,pemda_kota,walikota,"Jl. Dr. Sumarno, Pulo Gebang, Jaktim",-6.2253,106.9053,11000,6,office,1990,central,10
+JKT-W06,Kantor Walikota Jakarta Utara,pemda_kota,walikota,"Jl. Yos Sudarso No. 27-29, Jakut",-6.1220,106.8830,10000,6,office,1988,central,10
+JKT-D01,Dinas Kesehatan DKI Jakarta,pemda_provinsi,dinas,"Jl. Kesehatan No. 10, Jakpus",-6.1670,106.8150,5000,5,office,1975,central,10
+JKT-D02,Dinas Pendidikan DKI Jakarta,pemda_provinsi,dinas,"Jl. Jend. Gatot Subroto Kav. 40-41, Jaksel",-6.2210,106.8180,6000,6,office,1988,central,10
+JKT-D03,Dinas Sosial DKI Jakarta,pemda_provinsi,dinas,"Jl. Gunung Sahari II No. 6, Jakpus",-6.1530,106.8460,4000,4,office,1972,central,10
+JKT-D04,Dinas Lingkungan Hidup DKI Jakarta,pemda_provinsi,dinas,"Jl. Mandala V No. 67, Kramat Jati, Jaktim",-6.2710,106.8740,4500,4,office,1990,central,10
+JKT-D05,Dinas Perhubungan DKI Jakarta,pemda_provinsi,dinas,"Jl. Taman Jatibaru No. 1, Jakpus",-6.1860,106.8250,5000,5,office,1985,central,10
+JKT-D06,Dinas Penanggulangan Kebakaran DKI,pemda_provinsi,dinas,"Jl. Daan Mogot KM 11, Jakbar",-6.1690,106.7300,3500,3,office,1980,split,16
+JKT-D07,Dinas PUPR DKI Jakarta,pemda_provinsi,dinas,"Jl. Taman Jatibaru No. 1, Jakpus",-6.1855,106.8240,5500,5,office,1983,central,10
+JKT-D08,Dinas Tenaga Kerja DKI Jakarta,pemda_provinsi,dinas,"Jl. Prapatan No. 57, Jakpus",-6.1850,106.8420,4000,4,office,1978,central,10
+JKT-C01,Kantor Kecamatan Menteng,kecamatan,jakpus,"Jl. Cut Mutia No. 1, Jakpus",-6.1960,106.8390,2200,3,office,1970,split,10
+JKT-C02,Kantor Kecamatan Gambir,kecamatan,jakpus,"Jl. Tanah Abang IV No. 2, Jakpus",-6.1840,106.8140,2000,3,office,1975,split,10
+JKT-C03,Kantor Kecamatan Tebet,kecamatan,jaksel,"Jl. Prof. Dr. Soepomo SH No. 40, Jaksel",-6.2350,106.8560,2300,3,office,1978,split,10
+JKT-C04,Kantor Kecamatan Kebayoran Baru,kecamatan,jaksel,"Jl. Sisingamangaraja No. 1, Jaksel",-6.2430,106.7980,2500,3,office,1960,split,10
+JKT-C05,Kantor Kecamatan Kelapa Gading,kecamatan,jakut,"Jl. Kelapa Nias Raya, Jakut",-6.1550,106.9050,2000,3,office,1995,split,10
+JKT-C06,Kantor Kecamatan Cengkareng,kecamatan,jakbar,"Jl. Daan Mogot KM 14, Jakbar",-6.1470,106.7240,2200,3,office,1990,split,10
+JKT-C07,Kantor Kecamatan Pulo Gadung,kecamatan,jaktim,"Jl. Balai Pustaka Baru No. 2, Jaktim",-6.1870,106.8930,2100,3,office,1985,split,10
+JKT-C08,Kantor Kecamatan Cilandak,kecamatan,jaksel,"Jl. Raya Cilandak KKO, Jaksel",-6.2850,106.8100,2000,3,office,1988,split,10
+JKT-C09,Kantor Kecamatan Tanjung Priok,kecamatan,jakut,"Jl. Yos Sudarso, Jakut",-6.1270,106.8690,2300,3,office,1980,split,10
+JKT-C10,Kantor Kecamatan Jatinegara,kecamatan,jaktim,"Jl. Matraman Raya No. 325, Jaktim",-6.2100,106.8700,2100,3,office,1975,split,10
